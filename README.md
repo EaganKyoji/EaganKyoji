@@ -1,5 +1,5 @@
 
-<img width="33%" src="img/StarkGIF.gif">
+<img src="img/StarkGIF.gif">
 
 # 💫 About Me:
 👋 Hi, I’m @EaganKyoji<br>👀 I’m interested in <br>&emsp;&emsp;science, astronomy, and physics<br>🌱 I’m currently learning website and AI<br>😄 Pronouns: he/him<br>⚡ Fun fact: the only fun thing is coding
