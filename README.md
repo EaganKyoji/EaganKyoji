@@ -1,3 +1,4 @@
+<img src="img/Stark Sousou No Frieren GIF - Stark Sousou no Frieren Anime - Descobrir e Compartilhar GIFs.gif">
 # 💫 About Me:
 👋 Hi, I’m @EaganKyoji<br>👀 I’m interested in <br>             science, astronomy, and physics<br>🌱 I’m currently learning website and AI<br>😄 Pronouns: he/him<br>⚡ Fun fact: the only fun thing is coding
 
