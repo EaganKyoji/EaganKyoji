@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-  <img width="33%" src="img/Stark Sousou No Frieren GIF - Stark Sousou no Frieren Anime - Descobrir e Compartilhar GIFs.gif">
+  <img width="33%" src="img/StarkGIF.gif">
 </p>
 
 # 💫 About Me:
