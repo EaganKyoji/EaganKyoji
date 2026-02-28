@@ -1,11 +1,11 @@
 
 <img src="img/StarkGIF.gif">
 
-# 💫 About Me:
+# 💫 Know Me:
 👋 Hi, I’m @EaganKyoji<br>👀 I’m interested in <br>&emsp;&emsp;science, astronomy, and physics<br>🌱 I’m currently learning website and AI<br>😄 Pronouns: he/him<br>⚡ Fun fact: the only fun thing is coding
 
 
-## 🌐 Socials:
+## 🌐 Lets Talk:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rainyann.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eagancsv) 
 
 # 💻 Tech Stack:
