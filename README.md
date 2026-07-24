@@ -34,7 +34,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Technology-b14f38?style=for-the-badge" />
 </p>
 
 <br>
