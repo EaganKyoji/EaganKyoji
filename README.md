@@ -35,8 +35,11 @@
 </p>
 <hr>
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20"/> <br>
+  <img src="https://img.shields.io/badge/Astronomy-b14f38?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /> <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20&reversal=true&section=footer"/>
 </p>
 
 <br>
@@ -46,6 +49,8 @@
 </p>
 <hr>
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20"/> <br>
+  <img src="https://img.shields.io/badge/Astronomy-b14f38?style=for-the-badge" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -59,6 +64,7 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" />
+  <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" /> <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20&reversal=true&section=footer"/>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
