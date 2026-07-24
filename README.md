@@ -38,8 +38,12 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&height=70&color=BE5F37&text=Talk%20to%20Me&fontColor=BE5F37&fontSize=30"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Discord-%23B14F38.svg?logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Instagram-%23B14F38.svg?logo=Instagram&logoColor=white" /> <br>
+  <a href="https://discord.com/users/rainyann.">
+    <img src="https://img.shields.io/badge/Discord-%23B14F38.svg?style=flat&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/rainmahasin2000">
+    <img src="https://img.shields.io/badge/Instagram-%23B14F38.svg?style=flat&logo=Instagram&logoColor=white"/>
+  </a><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20&reversal=true&section=footer"/>
 </p>
 
