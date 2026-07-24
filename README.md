@@ -35,7 +35,6 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&height=70&color=BE5F37&text=Talk%20to%20Me&fontColor=BE5F37&fontSize=30"/>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20"/> <br>
   <img src="https://img.shields.io/badge/Discord-%23B14F38.svg?logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Instagram-%23B14F38.svg?logo=Instagram&logoColor=white" /> <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20&reversal=true&section=footer"/>
