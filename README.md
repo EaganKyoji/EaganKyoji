@@ -39,7 +39,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=70&color=BE5F37&text=Talk%20to%20Me&fontColor=BE5F37&fontSize=30"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=70&color=BE5F37&text=Tech%20Stack&fontColor=BE5F37&fontSize=30"/>
 </p>
 <hr>
 <p align="center">
