@@ -33,7 +33,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=70&color=BE5F37&text=Talk%20to%20Me&fontColor=BE5F37&fontSize=30"/>
 </p>
-<hr>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20"/> <br>
   <img src="https://img.shields.io/badge/Astronomy-b14f38?style=for-the-badge" />
@@ -47,7 +46,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=70&color=BE5F37&text=Tech%20Stack&fontColor=BE5F37&fontSize=30"/>
 </p>
-<hr>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20"/> <br>
   <img src="https://img.shields.io/badge/Astronomy-b14f38?style=for-the-badge" />
@@ -67,4 +65,3 @@
   <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" /> <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20&reversal=true&section=footer"/>
 </p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
