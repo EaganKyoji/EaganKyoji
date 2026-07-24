@@ -1,10 +1,13 @@
 
 <img src="img/StarkGIF.gif">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=f6dabf&text=Welcome%20To%20The%20Bar&fontColor=de4f2d&stroke=af4e38&animation=fadeIn&desc=Tell%20me%20your%20order&descSize=43.26&descAlign=50&descAlignY=61&fontAlignY=45" />
+  <img src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=f6dabf&text=Greetings,%20Soldier&fontColor=de4f2d&stroke=af4e38&animation=fadeIn&desc=May%20the%20breeze%20ease%20your%20weary%20soul&descSize=28.26&descAlign=50&descAlignY=61&fontAlignY=42"/>
 </p>
 
-![typing](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=B197FC&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Predicting+Loan+Repayments)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Felipa&duration=4000&pause=2000&color=DE4F2D&background=FF959532&center=true&vCenter=true&width=435&lines=Sit+beneath+the+whispering+grass+and+enjoy+the+calm)](https://git.io/typing-svg"/>
+</p>
+
 
 # 🔭 Know Me:
 👋 Hi, I’m @EaganKyoji<br>👀 I’m interested in <br>&emsp;&emsp;science, astronomy, and physics<br>🌱 I’m currently learning website and AI<br>😄 Pronouns: he/him<br>⚡ Fun fact: idk, man
