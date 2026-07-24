@@ -28,43 +28,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20"/> <br>
   <img src="https://img.shields.io/badge/Astronomy-b14f38?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Physics-b14f38?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Technology-b14f38?style=for-the-badge" /> <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20&reversal=true&section=footer"/>
+  <img src="https://img.shields.io/badge/Technology-b14f38?style=for-the-badge" />
 </p>
-
-<br>
 <br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=70&color=BE5F37&text=Talk%20to%20Me&fontColor=BE5F37&fontSize=30"/>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20"/> <br>
-  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /> <br>
+  <img src="https://img.shields.io/badge/Discord-%23B14F38.svg?logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-%23B14F38.svg?logo=Instagram&logoColor=white" /> <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20&reversal=true&section=footer"/>
 </p>
 
-
-<br>
-<br>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=70&color=BE5F37&text=Tech%20Stack&fontColor=BE5F37&fontSize=30"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20"/> <br>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" /> <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20&reversal=true&section=footer"/>
-</p>
