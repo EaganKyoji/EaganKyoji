@@ -4,6 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=f6dabf&text=Welcome%20To%20The%20Bar&fontColor=de4f2d&stroke=af4e38&animation=fadeIn&desc=Tell%20me%20your%20order&descSize=43.26&descAlign=50&descAlignY=61&fontAlignY=45" />
 </p>
 
+![typing](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=B197FC&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Predicting+Loan+Repayments)
+
 # 🔭 Know Me:
 👋 Hi, I’m @EaganKyoji<br>👀 I’m interested in <br>&emsp;&emsp;science, astronomy, and physics<br>🌱 I’m currently learning website and AI<br>😄 Pronouns: he/him<br>⚡ Fun fact: idk, man
 
