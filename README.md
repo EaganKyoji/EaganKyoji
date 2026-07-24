@@ -1,7 +1,7 @@
 
 <img src="img/StarkGIF.gif">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=f6dabf&text=Welcome%20To%20The%20Bar&fontColor=de4f2d&stroke=F0F0F0&animation=fadeIn&desc=Tell%20me%20your%20order&descSize=43.26&descAlign=50&descAlignY=61&fontAlignY=45" />
+  <img src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=f6dabf&text=Welcome%20To%20The%20Bar&fontColor=de4f2d&stroke=af4e38&animation=fadeIn&desc=Tell%20me%20your%20order&descSize=43.26&descAlign=50&descAlignY=61&fontAlignY=45" />
 </p>
 
 # 🔭 Know Me:
