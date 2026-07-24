@@ -15,6 +15,10 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EaganKyoji&theme=blueberry&hide_border=true&border_radius=5.0&locale=jv&date_format=j%20M%5B%20Y%5D&card_width=830&card_height=100&background=90%2CAD4D3700%2CAD4D37&ring=F6DAC0&fire=B04E38&stroke=B04E38&currStreakNum=BE5F37&sideNums=BE5F37&currStreakLabel=BE5F37&sideLabels=BE5F37&dates=D56B3E&excludeDaysLabel=BE5F37&border=D56B3E" alt="GitHub Streak" /></a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=20&color=ad4d37&fontColor=eed3b9&fontSize=69&reversal=true&section=header&descAlignY=86"/>
+</p>
+
 <br>
 <br>
 <p align="center">
@@ -28,6 +32,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20&reversal=true&section=footer"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=20&color=ad4d37&fontColor=eed3b9&fontSize=69&reversal=true&section=header&descAlignY=86"/>
+</p>
+
 <br>
 <br>
 <p align="center">
@@ -38,6 +46,10 @@
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /> <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20&reversal=true&section=footer"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=20&color=ad4d37&fontColor=eed3b9&fontSize=69&reversal=true&section=header&descAlignY=86"/>
 </p>
 
 <br>
