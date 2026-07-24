@@ -1,14 +1,16 @@
-
+<!--__________________________GIF SECTION__________________________-->
 <img src="img/StarkGIF.gif">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ad4d37&text=Greetings,%20Soldier&fontColor=eed3b9&fontSize=69&reversal=true&section=header&desc=May%20the%20breeze%20ease%20your%20weary%20soul.&descAlignY=86"/>
 </p>
 
+<!--__________________________TYPING__________________________-->
 <br>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Felipa&duration=4000&pause=2000&color=F6DAC0&background=FF959532&center=true&vCenter=true&width=435&lines=Sit+beneath+the+whispering+grass+and+enjoy+the+calm" alt="Typing SVG" /></a>
 </p>
 
+<!--__________________________STREAK STATS__________________________-->
 <br>
 <br>
 <p align="center">
@@ -19,6 +21,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=20&color=ad4d37&fontColor=eed3b9&fontSize=69&reversal=true&section=header&descAlignY=86"/>
 </p>
 
+<!--__________________________ANOTHER INGFO__________________________-->
 <br>
 <br>
 <p align="center">
