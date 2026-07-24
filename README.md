@@ -39,10 +39,10 @@
 </p>
 <p align="center">
   <a href="https://discord.com/users/rainyann.">
-    <img src="https://img.shields.io/badge/Discord-%23B14F38.svg?style=flat&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-%23B14F38.svg?style=flat&logo=discord&logoColor=white&style=flat"/>
   </a>
   <a href="https://instagram.com/rainmahasin2000">
-    <img src="https://img.shields.io/badge/Instagram-%23B14F38.svg?style=flat&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-%23B14F38.svg?style=flat&logo=Instagram&logoColor=white&style=flat"/>
   </a><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20&reversal=true&section=footer"/>
 </p>
