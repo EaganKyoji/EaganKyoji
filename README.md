@@ -1,11 +1,15 @@
 
 <img src="img/StarkGIF.gif">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=f6dabf&text=Greetings,%20Soldier&fontColor=de4f2d&stroke=af4e38&animation=fadeIn&desc=May%20the%20breeze%20ease%20your%20weary%20soul&descSize=28.26&descAlign=50&descAlignY=61&fontAlignY=42"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=f6dabf&text=Greetings,%20Soldier&fontColor=de4f2d&stroke=af4e38&animation=fadeIn&desc=May%20the%20breeze%20ease%20your%20weary%20soul&descSize=28.26&descAlign=50&descAlignY=45&fontAlignY=25&reversal=false/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Felipa&duration=4000&pause=2000&color=DE4F2D&background=FF959532&center=true&vCenter=true&width=435&lines=Sit+beneath+the+whispering+grass+and+enjoy+the+calm" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EaganKyoji&theme=blueberry&hide_border=true&border_radius=5.0&locale=jv&date_format=j%20M%5B%20Y%5D&card_width=830&card_height=100&background=90%2CAD4D3700%2CAD4D37&ring=F6DAC0&fire=B04E38&stroke=B04E38&currStreakNum=BE5F37&sideNums=BE5F37&currStreakLabel=BE5F37&sideLabels=BE5F37&dates=D56B3E&excludeDaysLabel=BE5F37&border=D56B3E" alt="GitHub Streak" /></a>
 </p>
 
 
