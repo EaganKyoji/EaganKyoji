@@ -8,13 +8,20 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Felipa&duration=4000&pause=2000&color=F6DAC0&background=FF959532&center=true&vCenter=true&width=435&lines=Sit+beneath+the+whispering+grass+and+enjoy+the+calm" alt="Typing SVG" /></a>
 </p>
 
+<br>
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EaganKyoji&theme=blueberry&hide_border=true&border_radius=5.0&locale=jv&date_format=j%20M%5B%20Y%5D&card_width=830&card_height=100&background=90%2CAD4D3700%2CAD4D37&ring=F6DAC0&fire=B04E38&stroke=B04E38&currStreakNum=BE5F37&sideNums=BE5F37&currStreakLabel=BE5F37&sideLabels=BE5F37&dates=D56B3E&excludeDaysLabel=BE5F37&border=D56B3E" alt="GitHub Streak" /></a>
 </p>
 
-
-# 🔭 Know Me:
-👋 Hi, I’m @EaganKyoji<br>👀 I’m interested in <br>&emsp;&emsp;science, astronomy, and physics<br>🌱 I’m currently learning website and AI<br>😄 Pronouns: he/him<br>⚡ Fun fact: idk, man
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=70&color=BE5F37&text=Interest&fontColor=BE5F37&fontSize=20"/>
+</p>
+<hr>
+<p align="center">
+  <img src="https://img.shields.io/badge/Astronomy-1B1B3A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Physics-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Technology-2E2E2E?style=for-the-badge" />
+</p>
 
 ## 🌐 Lets Talk:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rainyann.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eagancsv) 
