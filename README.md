@@ -4,8 +4,6 @@
 # 🔭 Know Me:
 👋 Hi, I’m @EaganKyoji<br>👀 I’m interested in <br>&emsp;&emsp;science, astronomy, and physics<br>🌱 I’m currently learning website and AI<br>😄 Pronouns: he/him<br>⚡ Fun fact: idk, man
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EaganKyoji&theme=blueberry&hide_border=true&border_radius=5.0&locale=jv&date_format=j%20M%5B%20Y%5D&background=90%2C4F4CEB%2C1261B2)](https://git.io/streak-stats)
-
 ## 🌐 Lets Talk:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rainyann.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eagancsv) 
 
