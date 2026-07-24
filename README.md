@@ -1,7 +1,7 @@
 
 <img src="img/StarkGIF.gif">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=f6dabf&text=Greetings,%20Soldier&fontColor=de4f2d&stroke=af4e38&animation=fadeIn&desc=May%20the%20breeze%20ease%20your%20weary%20soul&descSize=28.26&descAlign=50&descAlignY=45&fontAlignY=25&reversal=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=DE4F2DFF&text=Greetings,%20Soldier&fontColor=F6DAC0&stroke=F6DAC0&animation=fadeIn&desc=May%20the%20breeze%20ease%20your%20weary%20soul&descSize=28.26&descAlign=50&descAlignY=45&fontAlignY=25&reversal=false"/>
 </p>
 
 <p align="center">
