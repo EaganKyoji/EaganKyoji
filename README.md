@@ -1,7 +1,7 @@
 
 <img src="img/StarkGIF.gif">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=DE4F2DFF&text=Greetings,%20Soldier&fontColor=F6DAC0&stroke=F6DAC0&animation=fadeIn&desc=May%20the%20breeze%20ease%20your%20weary%20soul&descSize=28.26&descAlign=50&descAlignY=45&fontAlignY=25&reversal=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=DE4F2DFF&text=Greetings,%20Soldier&fontColor=F6DAC0&stroke=F6DAC0&animation=fadeIn&desc=May%20the%20breeze%20ease%20your%20weary%20soul&descSize=28.26&descAlign=50&descAlignY=45&fontAlignY=25&reversal=false"/>
 </p>
 
 <p align="center">
@@ -18,11 +18,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=70&color=BE5F37&text=Interest&fontColor=BE5F37&fontSize=30"/>
 </p>
-<hr>
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20"/>
   <img src="https://img.shields.io/badge/Astronomy-b14f38?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Physics-b14f38?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Technology-b14f38?style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20&reversal=true&section=footer"/>
 </p>
 
 <br>
