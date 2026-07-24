@@ -22,10 +22,10 @@
 <br>
 <br>
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20"/> <br>
   <img src="https://capsule-render.vercel.app/api?type=blur&height=70&color=BE5F37&text=Interest&fontColor=BE5F37&fontSize=30"/>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20"/> <br>
   <img src="https://img.shields.io/badge/Astronomy-b14f38?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Physics-b14f38?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Technology-b14f38?style=for-the-badge" />
