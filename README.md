@@ -22,6 +22,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=20&color=ad4d37&fontColor=eed3b9&fontSize=69&reversal=true&section=header&descAlignY=86"/>
 </p>
 
+<!--__________________________SPACE SHOOTING__________________________-->
+![My GitHub Game](game.gif)
+
 <!--__________________________ANOTHER INGFO__________________________-->
 <br>
 <br>
@@ -47,8 +50,5 @@
   </a><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=69&color=B04E38&fontColor=BE5F37&fontSize=20&reversal=true&section=footer"/>
 </p>
-
-<!--__________________________SPACE SHOOTING__________________________-->
-![My GitHub Game](game.gif)
 
 
