@@ -10,6 +10,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Felipa&duration=4000&pause=2000&color=F6DAC0&background=FF959532&center=true&vCenter=true&width=435&lines=Sit+beneath+the+whispering+grass+and+enjoy+the+calm" alt="Typing SVG" /></a>
 </p>
 
+<!--__________________________SPACE SHOOTING__________________________-->
+![My GitHub Game](game.gif)
+
 <!--__________________________STREAK STATS__________________________-->
 <br>
 <br>
